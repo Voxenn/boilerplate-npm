@@ -4,6 +4,7 @@
 	"description": "Node.js practice repo",
 	"keywords": ["freecodecamp", "test", "fortune"],
 	"license": "Voxenn",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
