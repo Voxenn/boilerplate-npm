@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vernon Williams",
-	"description": "Node.js practice repo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
