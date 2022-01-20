@@ -3,6 +3,7 @@
 	"author": "Vernon Williams",
 	"description": "Node.js practice repo",
 	"keywords": ["freecodecamp", "test", "fortune"],
+	"license": "Voxenn",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
