@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vernon Williams",
 	"description": "Node.js practice repo",
+	"keywords": ["freecodecamp", "test", "fortune"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
